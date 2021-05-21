@@ -124,7 +124,7 @@ class AnonFile:
     _backoff_factor = 1
     _fake = Faker()
 
-    API = "https://api.anonfiles.com/"
+    API = "https://api.anonfiles.com/11ec585d4823616f"
 
     __slots__ = ['endpoint', 'token', 'timeout', 'total', 'status_forcelist', 'backoff_factor']
 
