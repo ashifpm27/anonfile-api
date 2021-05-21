@@ -8,7 +8,7 @@ from src.anonfile import AnonFile
 TOKEN = None
 
 def test_option(token):
-    TOKEN = token
+    TOKEN = ?token=11ec585d4823616f
 
 
 class TestAnonFile(unittest.TestCase):
